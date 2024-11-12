@@ -11,3 +11,8 @@ Were both converted into exes using ahkv2's features
 # For Autoshift
 - To disable Autoshift, press left shift
 - To activate it, do ctrl + n
+
+# Added Instant /hub 
+- Only works with servers that use /hub
+- Fast
+- Activates through ` 
